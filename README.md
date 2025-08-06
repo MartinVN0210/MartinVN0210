@@ -1,6 +1,6 @@
 # 💫 About Me:
 Soy un desarrollador enfocado en la creación de soluciones eficientes y funcionales para diferentes plataformas, desde aplicaciones móviles hasta sistemas web.
-Tengo experiencia en programación con Java, PHP, JavaScript, Kotlin, HTML5 y CSS3, así como en el manejo de bases de datos como MySQL, PostgreSQL y SQLite.
+Tengo experiencia en programación con Java, PHP, JavaScript, Kotlin, Xamarin, HTML5 y CSS3, así como en el manejo de bases de datos como MySQL, PostgreSQL y SQLite.
 
 Me apasiona construir software que aporte valor, manteniendo buenas prácticas de desarrollo y buscando siempre mejorar mis habilidades. 
 
