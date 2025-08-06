@@ -1,8 +1,9 @@
 # 💫 About Me:
-Soy un desarrollador enfocado en la creación de soluciones eficientes y funcionales para diferentes plataformas, desde aplicaciones móviles hasta sistemas web.
-Tengo experiencia en programación con Java, PHP, JavaScript, Kotlin, Xamarin, HTML5 y CSS3, así como en el manejo de bases de datos como MySQL, PostgreSQL y SQLite.
+Soy un ingeniero en desarrollo de software multiplataforma con un fuerte interés en crear soluciones tecnológicas útiles, accesibles y bien estructuradas. Me gusta trabajar en proyectos que representen un reto, donde pueda aplicar la lógica, la creatividad y buenas prácticas de desarrollo.
 
-Me apasiona construir software que aporte valor, manteniendo buenas prácticas de desarrollo y buscando siempre mejorar mis habilidades. 
+Tengo experiencia desarrollando aplicaciones tanto web como móviles, y disfruto aprender constantemente para mantenerme actualizado con las tendencias y metodologías del sector. Actualmente estoy enfocado en seguir creciendo profesionalmente, explorando nuevas áreas como AI y el desarrollo frontend moderno.
+
+Me motiva formar parte de proyectos colaborativos que generen un impacto positivo.
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=MartinVN0210&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/> 
